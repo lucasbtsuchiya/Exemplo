@@ -15,6 +15,7 @@ public class ExemploGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("Hello Word");
         System.out.println("Exemplo projeto Netbeas e Git");
         System.out.println("Exemplo GitHub");
         // TODO code application logic here
