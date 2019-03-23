@@ -18,7 +18,8 @@ public class ExemploGit {
         System.out.println("Hello Word");
         System.out.println("Exemplo projeto Netbeas e Git");
         System.out.println("Exemplo GitHub");
-        // TODO code application logic here
+        System.out.println("Exemplo No notebook asus");
+// TODO code application logic here
     }
     
 }
