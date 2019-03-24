@@ -19,6 +19,8 @@ public class ExemploGit {
         System.out.println("Exemplo projeto Netbeas e Git");
         System.out.println("Exemplo GitHub");
         System.out.println("Exemplo No notebook asus");
+        System.out.println("Exemplo No Notebook HP");
+        
 // TODO code application logic here
     }
     
